@@ -169,7 +169,6 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
-    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
@@ -368,6 +367,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - title: Divider
     colors: bg-light-fg-dark
     styles:
       self:
